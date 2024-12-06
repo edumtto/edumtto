@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, I'm Eduardo 👋
 
+### I develop iOS and Web apps
+
+- 🔭 I’m currently working on [this](https://github.com/edumtto/20Hints) multiplatform game
+- 🌱 I’m currently learning UX Design
+- 👨‍💻 [More about me](https://eddietech.me)
+  
 <!--
 **edumtto/edumtto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
