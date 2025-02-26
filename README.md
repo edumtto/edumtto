@@ -3,7 +3,7 @@
 ### I develop iOS and Web apps
 
 - 🔭 I’m currently working on [this](https://github.com/edumtto/20Hints) multiplatform game
-- 🌱 I’m currently learning UX Design
+- 🌱 I’m currently studing UX Design, Data Analytics, and Generative AIs
 - 👨‍💻 [More about me](https://eddietech.me)
   
 <!--
